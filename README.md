@@ -1,2 +1,2 @@
-# info2180-lab1
-Git primer for info2180
+# INFO2180
+This is Lab 1 for Jason Gayle
